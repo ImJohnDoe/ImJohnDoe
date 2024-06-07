@@ -1,16 +1,12 @@
-## Hi there 👋
 
-<!--
-**ImJohnDoe/ImJohnDoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background {
+  background-color: white; 
+  background-image: 
+    repeating-linear-gradient(-45deg, transparent, transparent 33%, red 0%, red 50%),
+    repeating-linear-gradient(-45deg, transparent, transparent 33%, white 0%, white 50%),  
+    repeating-linear-gradient(-45deg, transparent, transparent 33%, white 0%, white 50%),  
+    repeating-linear-gradient(45deg, transparent, transparent 33%, red 0%, red 50%); 
+  background-size: 4px 4px;
+  background-position: -1px, 2px, 1px 1px;
+}]{x0000}$}
